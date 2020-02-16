@@ -1,6 +1,2 @@
-
-
-
-
 hello 
 this is fasi
